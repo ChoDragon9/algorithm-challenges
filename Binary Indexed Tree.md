@@ -39,3 +39,38 @@ update(k, x):
     T[k] = T[k] + d
     k = k + LSB(k)
 ```
+
+## 자바스크립트 코드
+```js
+function preprocess(arr) {
+  const processedArr = [];
+
+  for (let i = 0; i < arr.length; i++) {
+    processedArr[i] = preprocessInner(i, arr);
+  }
+
+  return processedArr
+}
+
+function preprocessInner(i, arr) {
+  let k = i + 1;
+  let total = 0;
+  let endIndex = k + 1 + lsb(k)
+
+  while (k >= endIndex) {
+    total += arr[k];
+    k--;
+  }
+
+  return total;
+}
+
+function lsb(k) {
+  return k & -k
+}
+
+const arr = [1, 2, 0, 4, 1, 3, 5, 9, 8, 6]
+const processedArr = preprocess(arr);
+
+console.log(processedArr.join(',') === '1,3,0,7,1,4,5,25,8,14');
+```
