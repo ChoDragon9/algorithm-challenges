@@ -48,17 +48,18 @@ function preprocess(arr) {
 }
 
 function preprocessInner(i, arr) {
-  let endIndex = i + 1 - lsb(i + 1);
+  let endIndex = i + 1 - lsb(i);
   let total = 0;
 
-  for (; i <= endIndex; i--) {
+  for (; i >= endIndex; i--) {
     total += arr[i]
   }
 
   return total;
 }
 
-function lsb(k) {
+function lsb(i) {
+  const k = i + 1;
   return k & -k
 }
 
@@ -67,7 +68,7 @@ function prefixSum(processedArr, i) {
 
   while (i >= 0) {
     total += processedArr[i]
-    i -= lsb(i + 1)
+    i -= lsb(i)
   }
 
   return total;
@@ -75,10 +76,9 @@ function prefixSum(processedArr, i) {
 
 function update (arr, processedArr, i, x) {
   const diff = x - arr[i];
-  let k = i + 1;
-  while (k <= processedArr.length) {
-    processedArr[k - 1] += diff;
-    k += lsb(k)
+  while (i < processedArr.length) {
+    processedArr[i] += diff;
+    i += lsb(i)
   }
 }
 
