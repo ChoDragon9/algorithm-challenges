@@ -44,23 +44,15 @@ update(k, x):
 ## 자바스크립트 코드
 ```js
 function preprocess(arr) {
-  const processedArr = [];
-
-  for (let i = 0; i < arr.length; i++) {
-    processedArr[i] = preprocessInner(i, arr);
-  }
-
-  return processedArr
+  return arr.map((_, i) => preprocessInner(i, arr));
 }
 
 function preprocessInner(i, arr) {
-  let k = i + 1;
+  let endIndex = i + 1 - lsb(i + 1);
   let total = 0;
-  let endIndex = k + 1 - lsb(k)
 
-  while (k >= endIndex) {
-    total += arr[k - 1];
-    k--;
+  for (; i <= endIndex; i--) {
+    total += arr[i]
   }
 
   return total;
@@ -71,12 +63,11 @@ function lsb(k) {
 }
 
 function prefixSum(processedArr, i) {
-  let k = i + 1;
   let total = 0;
 
-  while (k >= 1) {
-    total += processedArr[k - 1]
-    k -= lsb(k)
+  while (i >= 0) {
+    total += processedArr[i]
+    i -= lsb(i + 1)
   }
 
   return total;
