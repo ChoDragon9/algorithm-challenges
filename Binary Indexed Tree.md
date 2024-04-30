@@ -30,9 +30,10 @@ LSB(k):
 preprocessing(k):
   s = 0
   i = k + 1 - LSB(k)
-  while k >= i
+  while k >= i:
     s = s + A[k]
     k = k - 1
+  return s
 ```
 
 ### 질의 및 변경
