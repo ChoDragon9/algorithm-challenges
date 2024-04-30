@@ -24,6 +24,7 @@ preprocessing(k):
     k = k - 1
 ```
 
+## 질의 및 변경
 ```
 prefix_sum(k):
   s = 0
