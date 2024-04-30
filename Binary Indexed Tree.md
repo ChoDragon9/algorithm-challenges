@@ -55,10 +55,10 @@ function preprocess(arr) {
 function preprocessInner(i, arr) {
   let k = i + 1;
   let total = 0;
-  let endIndex = k + 1 + lsb(k)
+  let endIndex = k + 1 - lsb(k)
 
   while (k >= endIndex) {
-    total += arr[k];
+    total += arr[k - 1];
     k--;
   }
 
