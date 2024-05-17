@@ -51,6 +51,12 @@
 - 소수는 1과 본인이 아닌 수로 나누어 떨어지지 않는 수. 본인을 다른 수로 나눠서 확인해야 함.
 
 ### 알고리즘
+- 캐시 교체 알고리즘 LRU(Least Recently Used) [프로그래머스 Lv. 2
+/20240514_캐시](https://github.com/ChoDragon9/algorithm-challenges/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20Lv.%202/20240514_%EC%BA%90%EC%8B%9C.md)
+  - 특정 한 캐시가 있음
+  - 캐시 hit을 하면 가장 앞으로 이동
+  - 캐시 miss를 하면 가장 앞으로 추가
+  - 길이가 넘치면 뒤에서부터 삭제 
 - 그래프, 너비 우선 탐색 [프로그래머스 Lv. 2
 /20240515_깊이_너비우선탐색](https://github.com/ChoDragon9/algorithm-challenges/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20Lv.%202/20240515_%EA%B9%8A%EC%9D%B4_%EB%84%88%EB%B9%84%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89.md)
   1. 인접 리스트로 그래프를 만듬
