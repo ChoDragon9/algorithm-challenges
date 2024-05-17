@@ -41,6 +41,8 @@
 - 스택을 활용해서 탐색 범위를 최소화 해야함
 
 ## 정리
+> - [0.학습](https://github.com/ChoDragon9/algorithm-challenges/tree/main/0.%20%ED%95%99%EC%8A%B5) 내용 중 없는 것 정리
+
 ### 수학
 - 자카드 유사도
   - 집합 간의 유사도를 검사하는 방법
