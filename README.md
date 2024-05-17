@@ -31,6 +31,8 @@
 
 ### 시간복잡도가 높을 때
 - 메모리를 활용해서 반복문을 줄여야함
+- 하향식일 때 경우의 수가 증가된다면 상향식으로 확인해보자 [프로그래머스
+/20240507_정수 삼각형](https://github.com/ChoDragon9/algorithm-challenges/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/20240507_%EC%A0%95%EC%88%98%20%EC%82%BC%EA%B0%81%ED%98%95.md)
 
 #### while 조건식 활용
 - 최종적으로 최적화 할게 없다면 break, if 문을 최소화하자 [프로그래머스 Lv. 2
