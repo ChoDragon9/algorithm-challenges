@@ -22,11 +22,11 @@
 - 단순한 조건식도 정확히 확인하기
 - 큰 수를 다룰 때는 BigInt를 사용한다. [프로그래머스 Lv. 2
 /20240513_멀리 뛰기](https://github.com/ChoDragon9/algorithm-challenges/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20Lv.%202/20240513_%EB%A9%80%EB%A6%AC%20%EB%9B%B0%EA%B8%B0.md)
-- 자료구조를 활용하지 못하는 거을 수학으로 해결해보자 [프로그래머스 Lv. 2
+- 자료구조를 활용하지 못하는 것은 수학으로 해결해보자 [프로그래머스 Lv. 2
 /20240512_카펫](https://github.com/ChoDragon9/algorithm-challenges/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20Lv.%202/20240512_%EC%B9%B4%ED%8E%AB.md)
 - 수학 공식을 모르겠어도 무작정 풀어보자 [프로그래머스 Lv. 2
 /20240512_N개의 최소공배수](https://github.com/ChoDragon9/algorithm-challenges/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20Lv.%202/20240512_N%EA%B0%9C%EC%9D%98%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.md)
-- 경우의 수는 보이는 데 최적을 모르겠을 때는 그냥 모든 경우의 수를 구해보자 [프로그래머스
+- 경우의 수는 보이는 데 최적을 모르겠을 때는 우선 모든 경우의 수를 구해보자 [프로그래머스
 /20240506_N으로 표현](https://github.com/ChoDragon9/algorithm-challenges/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/20240506_N%EC%9C%BC%EB%A1%9C%20%ED%91%9C%ED%98%84.md)
 - 문자열 정렬할 때 compareFn을 직접 만들 때가 있으므로 정확한 사용 방법을 알 필요가 있음 [프로그래머스
 /20240509_문자열 내 마음대로 정렬하기](https://github.com/ChoDragon9/algorithm-challenges/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/20240509_%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%20%EB%A7%88%EC%9D%8C%EB%8C%80%EB%A1%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.md)
@@ -37,13 +37,16 @@
 /20240507_정수 삼각형](https://github.com/ChoDragon9/algorithm-challenges/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/20240507_%EC%A0%95%EC%88%98%20%EC%82%BC%EA%B0%81%ED%98%95.md)
 - 약수는 시작과 끝을 함께 구한다 [프로그래머스
 /20240509_기사단원의 무기](https://github.com/ChoDragon9/algorithm-challenges/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/20240509_%EA%B8%B0%EC%82%AC%EB%8B%A8%EC%9B%90%EC%9D%98%20%EB%AC%B4%EA%B8%B0.md)
-- 소수를 빠르게 구하기 [프로그래머스
-/20240510_소수 만들기](https://github.com/ChoDragon9/algorithm-challenges/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/20240510_%EC%86%8C%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
-  - 2보다 큰 것 중에 2로 나눠지는 수는 소수가 아님
-  - 1과 n를 집합에 넣고, 루트 n수까지 1부터 2씩 증가하며 소수를 찾음
-    - 집합의 갯수가 2개가 초과되면 소수가 아님
 - 큰 값의 범위를 탐색할 때는 수학으로 계산하고 인덱스 값을 이동해서 탐색 시간을 최적화함 [프로그래머스
 /20240511_스킬체크_Lv3_1번](https://github.com/ChoDragon9/algorithm-challenges/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/20240511_%EC%8A%A4%ED%82%AC%EC%B2%B4%ED%81%AC_Lv3_1%EB%B2%88.md)
+
+#### 소수를 빠르게 구하기 
+> [프로그래머스
+/20240510_소수 만들기](https://github.com/ChoDragon9/algorithm-challenges/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/20240510_%EC%86%8C%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
+
+- 2보다 큰 것 중에 2로 나눠지는 수는 소수가 아님
+- 1과 n를 집합에 넣고, 루트 n수까지 1부터 2씩 증가하며 소수를 찾음
+  - 집합의 갯수가 2개가 초과되면 소수가 아님
 
 #### while 조건식 활용
 - 최종적으로 최적화 할게 없다면 break, if 문을 최소화하자 [프로그래머스 Lv. 2
