@@ -14,8 +14,18 @@
 - [ ] Hacker Rank 시작
 
 ## 회고
+### 실수 줄이기
+> - [24분 버림] [20240516_주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)
+- 최종 결과가 누적된 값인지, 아니면 누적 중에 멈춰야 되는 조건이 있는 지 정확히 확인 후 풀이하기
+- 단순한 조건식도 정확히 확인하기
+
 ### 경우의 수가 많을 때
 - 메모리를 활용해서 반복문을 줄여야함
+
+#### 고유한 값을 넣을 때
+> - [프로그래머스 Lv. 2
+/20240516_롤케이크 자르기](https://github.com/ChoDragon9/algorithm-challenges/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20Lv.%202/20240516_%EB%A1%A4%EC%BC%80%EC%9D%B4%ED%81%AC%20%EC%9E%90%EB%A5%B4%EA%B8%B0.md)
+- Set을 활용하면 코드도 단순해지고, 탐색 시간이 빠름
 
 #### 경우의 수의 합 중에 최고값 구하기
 > - [프로그래머스 Lv. 2
