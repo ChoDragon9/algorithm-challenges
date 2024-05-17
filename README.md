@@ -37,6 +37,11 @@
 /20240507_정수 삼각형](https://github.com/ChoDragon9/algorithm-challenges/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/20240507_%EC%A0%95%EC%88%98%20%EC%82%BC%EA%B0%81%ED%98%95.md)
 - 약수는 시작과 끝을 함께 구한다 [프로그래머스
 /20240509_기사단원의 무기](https://github.com/ChoDragon9/algorithm-challenges/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/20240509_%EA%B8%B0%EC%82%AC%EB%8B%A8%EC%9B%90%EC%9D%98%20%EB%AC%B4%EA%B8%B0.md)
+- 소수를 빠르게 구하기 [프로그래머스
+/20240510_소수 만들기](https://github.com/ChoDragon9/algorithm-challenges/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/20240510_%EC%86%8C%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
+  - 2보다 큰 것 중에 2로 나눠지는 수는 소수가 아님
+  - 1과 n를 집합에 넣고, 루트 n수까지 1부터 2씩 증가하며 소수를 찾음
+    - 집합의 갯수가 2개가 초과되면 소수가 아님 
 
 #### while 조건식 활용
 - 최종적으로 최적화 할게 없다면 break, if 문을 최소화하자 [프로그래머스 Lv. 2
