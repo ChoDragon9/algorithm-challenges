@@ -16,6 +16,8 @@
 ## 회고
 ### 실수 줄이기
 > - [24분 버림] [20240516_주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)
+> - [15분 버림] [프로그래머스 Lv. 2
+/20240515_k진수에서 소수 개수 구하기.md](https://github.com/ChoDragon9/algorithm-challenges/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20Lv.%202/20240515_k%EC%A7%84%EC%88%98%EC%97%90%EC%84%9C%20%EC%86%8C%EC%88%98%20%EA%B0%9C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.md)
 - 최종 결과가 누적된 값인지, 아니면 누적 중에 멈춰야 되는 조건이 있는 지 정확히 확인 후 풀이하기
 - 단순한 조건식도 정확히 확인하기
 
@@ -44,6 +46,7 @@
   - 집합 간의 유사도를 검사하는 방법
   - [프로그래머스 Lv. 2
 /20240515_뉴스 클러스터링](https://github.com/ChoDragon9/algorithm-challenges/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20Lv.%202/20240515_%EB%89%B4%EC%8A%A4%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81.md)
+- 소수는 1과 본인이 아닌 수로 나누어 떨어지지 않는 수. 본인을 다른 수로 나눠서 확인해야 함.
 
 ### 알고리즘
 - 그래프, 너비 우선 탐색 [프로그래머스 Lv. 2
