@@ -20,6 +20,10 @@
 /20240515_k진수에서 소수 개수 구하기.md](https://github.com/ChoDragon9/algorithm-challenges/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20Lv.%202/20240515_k%EC%A7%84%EC%88%98%EC%97%90%EC%84%9C%20%EC%86%8C%EC%88%98%20%EA%B0%9C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.md)
 - 최종 결과가 누적된 값인지, 아니면 누적 중에 멈춰야 되는 조건이 있는 지 정확히 확인 후 풀이하기
 - 단순한 조건식도 정확히 확인하기
+- 큰 수를 다룰 때는 BigInt를 사용한다. [프로그래머스 Lv. 2
+/20240513_멀리 뛰기](https://github.com/ChoDragon9/algorithm-challenges/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20Lv.%202/20240513_%EB%A9%80%EB%A6%AC%20%EB%9B%B0%EA%B8%B0.md)
+- 자료구조를 활용하지 못하는 거을 수학으로 해결해보자 [프로그래머스 Lv. 2
+/20240512_카펫](https://github.com/ChoDragon9/algorithm-challenges/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20Lv.%202/20240512_%EC%B9%B4%ED%8E%AB.md)
 
 ### 경우의 수가 많을 때
 - 메모리를 활용해서 반복문을 줄여야함
