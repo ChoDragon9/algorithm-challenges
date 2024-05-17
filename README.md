@@ -28,6 +28,8 @@
 /20240512_N개의 최소공배수](https://github.com/ChoDragon9/algorithm-challenges/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20Lv.%202/20240512_N%EA%B0%9C%EC%9D%98%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.md)
 - 경우의 수는 보이는 데 최적을 모르겠을 때는 그냥 모든 경우의 수를 구해보자 [프로그래머스
 /20240506_N으로 표현](https://github.com/ChoDragon9/algorithm-challenges/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/20240506_N%EC%9C%BC%EB%A1%9C%20%ED%91%9C%ED%98%84.md)
+- 문자열 정렬할 때 compareFn을 직접 만들 때가 있으므로 정확한 사용 방법을 알 필요가 있음 [프로그래머스
+/20240509_문자열 내 마음대로 정렬하기](https://github.com/ChoDragon9/algorithm-challenges/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/20240509_%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%20%EB%A7%88%EC%9D%8C%EB%8C%80%EB%A1%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.md)
 
 ### 시간복잡도가 높을 때
 - 메모리를 활용해서 반복문을 줄여야함
