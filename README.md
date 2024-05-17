@@ -24,6 +24,8 @@
 /20240513_멀리 뛰기](https://github.com/ChoDragon9/algorithm-challenges/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20Lv.%202/20240513_%EB%A9%80%EB%A6%AC%20%EB%9B%B0%EA%B8%B0.md)
 - 자료구조를 활용하지 못하는 거을 수학으로 해결해보자 [프로그래머스 Lv. 2
 /20240512_카펫](https://github.com/ChoDragon9/algorithm-challenges/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20Lv.%202/20240512_%EC%B9%B4%ED%8E%AB.md)
+- 수학 공식을 모르겠어도 무작정 풀어보자 [프로그래머스 Lv. 2
+/20240512_N개의 최소공배수](https://github.com/ChoDragon9/algorithm-challenges/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20Lv.%202/20240512_N%EA%B0%9C%EC%9D%98%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.md)
 
 ### 경우의 수가 많을 때
 - 메모리를 활용해서 반복문을 줄여야함
