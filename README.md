@@ -33,6 +33,8 @@
 - 메모리를 활용해서 반복문을 줄여야함
 - 하향식일 때 경우의 수가 증가된다면 상향식으로 확인해보자 [프로그래머스
 /20240507_정수 삼각형](https://github.com/ChoDragon9/algorithm-challenges/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/20240507_%EC%A0%95%EC%88%98%20%EC%82%BC%EA%B0%81%ED%98%95.md)
+- 약수는 시작과 끝을 함께 구한다 [프로그래머스
+/20240509_기사단원의 무기](https://github.com/ChoDragon9/algorithm-challenges/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/20240509_%EA%B8%B0%EC%82%AC%EB%8B%A8%EC%9B%90%EC%9D%98%20%EB%AC%B4%EA%B8%B0.md)
 
 #### while 조건식 활용
 - 최종적으로 최적화 할게 없다면 break, if 문을 최소화하자 [프로그래머스 Lv. 2
@@ -64,8 +66,15 @@
   - [프로그래머스 Lv. 2
 /20240515_뉴스 클러스터링](https://github.com/ChoDragon9/algorithm-challenges/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20Lv.%202/20240515_%EB%89%B4%EC%8A%A4%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81.md)
 - 소수는 1과 본인이 아닌 수로 나누어 떨어지지 않는 수. 본인을 다른 수로 나눠서 확인해야 함.
+- 콜라츠 추측: 주어진 수가 1이 될 때까지 다음 작업을 반복하면, 모든 수를 1로 만들 수 있다는 추측
+  1-1. 입력된 수가 짝수라면 2로 나눕니다. 
+  1-2. 입력된 수가 홀수라면 3을 곱하고 1을 더합니다. 
+  2. 결과로 나온 수에 같은 작업을 1이 될 때까지 반복합니다.
+- 하샤드 수: x의 자릿수의합으로 x가 나눠질 때 
 
 ### 알고리즘
+- 쿼드 트리 [프로그래머스
+/20240508_쿼드압축 후 개수 세기](https://github.com/ChoDragon9/algorithm-challenges/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/20240508_%EC%BF%BC%EB%93%9C%EC%95%95%EC%B6%95%20%ED%9B%84%20%EA%B0%9C%EC%88%98%20%EC%84%B8%EA%B8%B0.md)
 - 최소 힙 [프로그래머스
 /20240505_더 맵게](https://github.com/ChoDragon9/algorithm-challenges/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/20240505_%EB%8D%94%20%EB%A7%B5%EA%B2%8C.md)
 - 캐시 교체 알고리즘 LRU(Least Recently Used) [프로그래머스 Lv. 2
