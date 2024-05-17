@@ -41,7 +41,9 @@
 /20240510_소수 만들기](https://github.com/ChoDragon9/algorithm-challenges/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/20240510_%EC%86%8C%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
   - 2보다 큰 것 중에 2로 나눠지는 수는 소수가 아님
   - 1과 n를 집합에 넣고, 루트 n수까지 1부터 2씩 증가하며 소수를 찾음
-    - 집합의 갯수가 2개가 초과되면 소수가 아님 
+    - 집합의 갯수가 2개가 초과되면 소수가 아님
+- 큰 값의 범위를 탐색할 때는 수학으로 계산하고 인덱스 값을 이동해서 탐색 시간을 최적화함 [프로그래머스
+/20240511_스킬체크_Lv3_1번](https://github.com/ChoDragon9/algorithm-challenges/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/20240511_%EC%8A%A4%ED%82%AC%EC%B2%B4%ED%81%AC_Lv3_1%EB%B2%88.md)
 
 #### while 조건식 활용
 - 최종적으로 최적화 할게 없다면 break, if 문을 최소화하자 [프로그래머스 Lv. 2
