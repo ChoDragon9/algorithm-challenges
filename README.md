@@ -62,6 +62,8 @@
 - 소수는 1과 본인이 아닌 수로 나누어 떨어지지 않는 수. 본인을 다른 수로 나눠서 확인해야 함.
 
 ### 알고리즘
+- 최소 힙 [프로그래머스
+/20240505_더 맵게](https://github.com/ChoDragon9/algorithm-challenges/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/20240505_%EB%8D%94%20%EB%A7%B5%EA%B2%8C.md)
 - 캐시 교체 알고리즘 LRU(Least Recently Used) [프로그래머스 Lv. 2
 /20240514_캐시](https://github.com/ChoDragon9/algorithm-challenges/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20Lv.%202/20240514_%EC%BA%90%EC%8B%9C.md)
   - 특정 한 캐시가 있음
