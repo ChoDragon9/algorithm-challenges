@@ -27,8 +27,12 @@
 - 수학 공식을 모르겠어도 무작정 풀어보자 [프로그래머스 Lv. 2
 /20240512_N개의 최소공배수](https://github.com/ChoDragon9/algorithm-challenges/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20Lv.%202/20240512_N%EA%B0%9C%EC%9D%98%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.md)
 
-### 경우의 수가 많을 때
+### 시간복잡도가 높을 때
 - 메모리를 활용해서 반복문을 줄여야함
+
+#### while 조건식 활용
+- 최종적으로 최적화 할게 없다면 break, if 문을 최소화하자 [프로그래머스 Lv. 2
+/20240511_짝지어 제거하기](https://github.com/ChoDragon9/algorithm-challenges/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20Lv.%202/20240511_%EC%A7%9D%EC%A7%80%EC%96%B4%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.md)
 
 #### 고유한 값을 넣을 때
 > - [프로그래머스 Lv. 2
@@ -50,6 +54,7 @@
 > - [0.학습](https://github.com/ChoDragon9/algorithm-challenges/tree/main/0.%20%ED%95%99%EC%8A%B5) 내용 중 없는 것 정리
 
 ### 수학
+- 등차수열의 합공식 : (첫 번째 수 + 마지막 수) * 길이 / 2
 - 자카드 유사도
   - 집합 간의 유사도를 검사하는 방법
   - [프로그래머스 Lv. 2
