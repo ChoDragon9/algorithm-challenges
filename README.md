@@ -18,6 +18,8 @@
 > - [24분 버림] [20240516_주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)
 > - [15분 버림] [프로그래머스 Lv. 2
 /20240515_k진수에서 소수 개수 구하기.md](https://github.com/ChoDragon9/algorithm-challenges/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20Lv.%202/20240515_k%EC%A7%84%EC%88%98%EC%97%90%EC%84%9C%20%EC%86%8C%EC%88%98%20%EA%B0%9C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.md)
+- 일정한 규칙이 있는 값은 시각화해서 규칙 파악하기 [프로그래머스 Lv. 2
+/20240520_124 나라의 숫자](https://github.com/ChoDragon9/algorithm-challenges/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20Lv.%202/20240520_124%20%EB%82%98%EB%9D%BC%EC%9D%98%20%EC%88%AB%EC%9E%90.md)
 - 최종 결과가 누적된 값인지, 아니면 누적 중에 멈춰야 되는 조건이 있는 지 정확히 확인 후 풀이하기
 - 단순한 조건식도 정확히 확인하기
 - 큰 수를 다룰 때는 BigInt를 사용한다. [프로그래머스 Lv. 2
