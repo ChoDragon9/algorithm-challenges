@@ -1,4 +1,4 @@
-# Algorithm Chellenges
+![image](https://github.com/ChoDragon9/algorithm-challenges/assets/17817719/bb00dd8b-c672-4cc0-b832-3998b0c03434)# Algorithm Chellenges
 재미있던 문제와 알고리즘/자료구조 기초 지식에 대해서 정리한다.
 
 - [0. 학습](https://github.com/ChoDragon9/algorithm-challenges/tree/main/0.%20%ED%95%99%EC%8A%B5) : 알고리즘을 풀기 위한 선행 학습 내용을 정리한다.
@@ -37,6 +37,7 @@
 /20240509_문자열 내 마음대로 정렬하기](https://github.com/ChoDragon9/algorithm-challenges/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/20240509_%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%20%EB%A7%88%EC%9D%8C%EB%8C%80%EB%A1%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.md)
 
 ### 시간복잡도가 높을 때
+- 1~n 숫자로 n 길이로 만들 수 있는 모든 경우에서 k번째를 가져오는 방법 [프로그래머스 Lv. 2/20240525_줄 서는 방법.md](https://github.com/ChoDragon9/algorithm-challenges/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20Lv.%202/20240525_%EC%A4%84%20%EC%84%9C%EB%8A%94%20%EB%B0%A9%EB%B2%95.md)
 - 배열/Set/Map을 변경하지 않고, 사칙 연산으로 계산하면 빠르게 됨 [프로그래머스 Lv. 2/20240522_시소 짝꿍](https://github.com/ChoDragon9/algorithm-challenges/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20Lv.%202/20240522_%EC%8B%9C%EC%86%8C%20%EC%A7%9D%EA%BF%8D.md)
 - 제목 속에 답이 있음 창의적으로 생각하기!
 - 큐를 구현할 때 shift는 성능이 좋지 않으므로 head 직접 관리하기!
