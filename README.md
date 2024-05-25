@@ -1,4 +1,4 @@
-![image](https://github.com/ChoDragon9/algorithm-challenges/assets/17817719/bb00dd8b-c672-4cc0-b832-3998b0c03434)# Algorithm Chellenges
+# Algorithm Chellenges
 재미있던 문제와 알고리즘/자료구조 기초 지식에 대해서 정리한다.
 
 - [0. 학습](https://github.com/ChoDragon9/algorithm-challenges/tree/main/0.%20%ED%95%99%EC%8A%B5) : 알고리즘을 풀기 위한 선행 학습 내용을 정리한다.
