@@ -6,7 +6,7 @@
 - [프로그래머스](https://github.com/ChoDragon9/algorithm-challenges/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4) : 코딩테스트 난이도 Lv. 0, 1를 정리한다.
 
 ## 최근 레벨 기록
-![레벨 체크](https://github.com/ChoDragon9/algorithm-challenges/assets/17817719/57f65d73-bcfa-4b94-8b7b-935db617c8c6)
+![레벨 체크](https://github.com/ChoDragon9/algorithm-challenges/assets/17817719/19beed13-37e4-4cce-aee4-2ded8d5d50cc)
 
 
 ## 목표
